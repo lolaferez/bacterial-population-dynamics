@@ -128,8 +128,8 @@ Within the parameter range investigated, the **sub-saturated strategy provides t
 
 bacterial-population-dynamics/
 ├── README.md
-├── codes/
+├── Codes/
 │   ...
 │
 └── report/
-    └── bacterial_population_dynamics.pdf
+    └── StrategiesBacterialGrowth.pdf
