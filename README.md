@@ -126,16 +126,10 @@ Within the parameter range investigated, the **sub-saturated strategy provides t
 
 ## Repository Structure
 
-```text
-.
-├── code/
-│   ├── population_dynamics.py
-│   ├── upshift_population_comparison.py
-│   ├── growth_adaptation_heatmaps.py
-│   ├── parameter_sweep.py
-│   └── nutrient_sweep_animation.py
+bacterial-population-dynamics/
+├── README.md
+├── codes/
+│   ...
 │
-├── plots/
-├── report/
-├── presentation/
-└── README.md
+└── report/
+    └── bacterial_population_dynamics.pdf
